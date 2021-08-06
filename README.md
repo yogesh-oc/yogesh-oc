@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yogesh-oc
 - 👀 I’m interested in software development
-- 🌱 I’m currently working in One COnvergence
+- 🌱 I’m currently working in One Convergence
 - 📫 You can reach me through email broyogesh88@gmail.com
 
 <!---
